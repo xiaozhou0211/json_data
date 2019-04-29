@@ -1,0 +1,29 @@
+{
+  "name": "rivendell",
+  "version": "1.0.0",
+  "description": "Pulsar expo landing page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaozhou0211/rivendell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/xiaozhou0211/rivendell",
+  "devDependencies": {
+    "autoprefixer": "^9.1.5",
+    "bootstrap": "^4.3.1",
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "plumber": "^0.4.8",
+    "rename": "^1.0.4"
+  }
+}
